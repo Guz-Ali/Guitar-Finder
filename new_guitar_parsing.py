@@ -61,14 +61,28 @@ def parse_new_guitars(data):
 if __name__ == "__main__":
     try:
         all_guitars = []
-        json_files = sorted(f for f in os.listdir('.') if f.startswith("new_guitars") and f.endswith(".json"))
-        
+
+        # Get the absolute path for the data folder
+        data_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
+
+        # Get all new guitar JSON files
+        json_files = sorted(f for f in os.listdir(data_folder) if f.startswith("new_guitars") and f.endswith(".json"))
+
         for file_name in json_files:
-            data = load_json_file(file_name)
+            file_path = os.path.join(data_folder, file_name)  # Get the full path
+            data = load_json_file(file_path)
             parsed = parse_new_guitars(data)
             all_guitars.extend(parsed)
         
-        with open("new_guitars_combined.json", "w", encoding="utf-8") as out_file:
+        # Define the output folder and path
+
+        # Save all combined data to the correct location
+        output_folder = os.path.join(data_folder, 'combined')
+        os.makedirs(output_folder, exist_ok=True)
+        output_path = os.path.join(output_folder, 'new_guitars_combined.json')
+
+        # Save the combined result
+        with open(output_path, "w", encoding="utf-8") as out_file:
             json.dump(all_guitars, out_file, indent=2, ensure_ascii=False)
         
         print(f"✅ Parsed and combined {len(all_guitars)} new guitars into new_guitars_combined.json")

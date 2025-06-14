@@ -2,7 +2,7 @@ import json
 import os
 
 # Load parsed guitar data
-def load_parsed_guitars(file_path='new_guitars_combined.json'):
+def load_parsed_guitars(file_path='./data/combined/new_guitars_combined.json'):
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"{file_path} not found.")
     

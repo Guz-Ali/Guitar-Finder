@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from new_guitar_parsing import parse_new_guitars  # ✅ reused parser
+from new_guitar_parsing import parse_new_guitars
 
 BASE_SITE_URL = "https://www.guitarcenter.com"
 
@@ -57,9 +57,12 @@ if __name__ == "__main__":
     try:
         combined_guitars = []
 
+        # Get absolute path of 'data' folder to avoid path issues
+        data_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
+
         # Traditional used guitar files, excluding "other" and "combined"
         old_files = sorted(
-            f for f in os.listdir('.') 
+            f for f in os.listdir(data_folder) 
             if f.startswith("used_guitars") 
             and f.endswith(".json") 
             and "other" not in f 
@@ -67,7 +70,8 @@ if __name__ == "__main__":
         )
 
         for file_name in old_files:
-            data = load_json_file(file_name)
+            file_path = os.path.join(data_folder, file_name)  # Get full file path
+            data = load_json_file(file_path)
             if isinstance(data, dict) and "results" in data and isinstance(data["results"], list):
                 parsed = parse_used_guitars_old(data)
                 combined_guitars.extend(parsed)
@@ -75,18 +79,23 @@ if __name__ == "__main__":
                 print(f"⚠️ Skipping {file_name}, doesn't look like old used_guitar format.")
         
         # ✅ Define new-format used guitar files
-        new_format_files = sorted(f for f in os.listdir('.') if f.startswith("used_guitars_other") and f.endswith(".json"))
+        new_format_files = sorted(f for f in os.listdir(data_folder) if f.startswith("used_guitars_other") and f.endswith(".json"))
 
         for file_name in new_format_files:
-            data = load_json_file(file_name)
+            file_path = os.path.join(data_folder, file_name)  # Get full file path
+            data = load_json_file(file_path)
             parsed = parse_new_guitars(data)  # returns a list
             if isinstance(parsed, list):
                 combined_guitars.extend(parsed)
             else:
                 print(f"⚠️ Skipping {file_name}, unexpected format: {type(parsed)}")
         
-        # Save all combined data
-        with open("used_guitars_combined.json", "w", encoding="utf-8") as out_file:
+        # Save all combined data to the correct location
+        output_folder = os.path.join(data_folder, 'combined')
+        os.makedirs(output_folder, exist_ok=True)
+        output_path = os.path.join(output_folder, 'used_guitars_combined.json')
+        
+        with open(output_path, "w", encoding="utf-8") as out_file:
             json.dump(combined_guitars, out_file, indent=2, ensure_ascii=False)
         
         print(f"✅ Parsed and combined {len(combined_guitars)} used guitars into used_guitars_combined.json")

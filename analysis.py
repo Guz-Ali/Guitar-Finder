@@ -186,8 +186,8 @@ def generate_used_url(used, base_url="https://www.sweetwater.com"):
 
 if __name__ == "__main__":
     try:
-        used_guitars = load_json_file('used_guitars_combined.json')
-        new_guitars = load_json_file('new_guitars_combined.json')
+        used_guitars = load_json_file('./data/combined/used_guitars_combined.json')
+        new_guitars = load_json_file('./data/combined/new_guitars_combined.json')
 
         # Index new guitars by brand for faster lookup
         new_guitars_by_brand = {}
