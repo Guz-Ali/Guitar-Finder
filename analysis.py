@@ -241,13 +241,13 @@ if __name__ == "__main__":
                     })
 
         # Continue sorting and filtering...
-        top_matches = sorted(matches, key=lambda x: x['price_difference'], reverse=True)
-        top_matches = [match for match in top_matches if 400 < match['used_price'] < 800]
-        top_matches = [match for match in top_matches if match['match_score'] > 80]
+        top_matches = sorted(matches, key=lambda x: x['match_score'], reverse=True)
+        top_matches = [match for match in top_matches if 500 < match['used_price'] < 900]
+        top_matches = [match for match in top_matches if 800 < match['new_price'] < 1500]
+        top_matches = [match for match in top_matches if match['match_score'] > 70]
         top_matches = top_matches[:100]
 
         # Output results
-        print("Top 10 used guitars with biggest discount compared to new guitars:\n")
         for idx, match in enumerate(top_matches, 1):
             print(f"{idx}. Used: {match['used_title']} (${match['used_price']} + ${match['used_shipping']} shipping) [{match['used_condition']}, {match['used_store']}]")
             print(f"    New:  {match['new_title']} (${match['new_price']}) [{match['new_store']}]")
