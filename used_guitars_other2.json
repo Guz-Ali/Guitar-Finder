@@ -1,0 +1,3898 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "imageId": "000000121170324",
+                    "displayName": "Used Fender MIKE CAMPBELL RED DOG Solid Body Electric Guitar",
+                    "identifiers": {
+                        "gcItemNumber": "121170324",
+                        "productEntId": "121170324",
+                        "skuEntId": "121170324"
+                    },
+                    "seoUrl": "/Used/Fender/Used-Fender-MIKE-CAMPBELL-RED-DOG-Solid-Body-Electric-Guitar.gc",
+                    "productId": "site5121170324",
+                    "skuId": "site5121170324",
+                    "objectID": "site5121170324",
+                    "storeName": "Nashville, TN",
+                    "brand": "Fender",
+                    "review": {},
+                    "listPrice": 2799.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 2799.99,
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used 2023 Gibson SG Modern Blueberry Burst Solid Body Electric Guitar",
+                    "price": 1899.99,
+                    "productId": "site5121170307",
+                    "identifiers": {
+                        "gcItemNumber": "121170307",
+                        "productEntId": "121170307",
+                        "skuEntId": "121170307"
+                    },
+                    "listPrice": 1899.99,
+                    "skuId": "site5121170307",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-2023-Gibson-SG-Modern-Blueberry-Burst-Solid-Body-Electric-Guitar.gc",
+                    "brand": "Gibson",
+                    "objectID": "site5121170307",
+                    "review": {},
+                    "storeName": "Fayetteville, GA",
+                    "imageId": "000000121170307"
+                },
+                {
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121181760",
+                    "identifiers": {
+                        "gcItemNumber": "121181760",
+                        "productEntId": "121181760",
+                        "skuEntId": "121181760"
+                    },
+                    "listPrice": 849.99,
+                    "priceVisibility": 1,
+                    "storeName": "N. Olmsted, OH",
+                    "displayName": "Used 2024 Fender 70th Anniversary Player Stratocaster Sonic Blue Solid Body Electric Guitar",
+                    "review": {},
+                    "productId": "site5121181760",
+                    "objectID": "site5121181760",
+                    "price": 849.99,
+                    "skuId": "site5121181760",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "brand": "Fender",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "seoUrl": "/Used/Fender/Used-2024-Fender-70th-Anniversary-Player-Stratocaster-Sonic-Blue-Solid-Body-Electric-Guitar.gc"
+                },
+                {
+                    "displayName": "Used Squier Telecaster Yellow Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 169.99,
+                    "seoUrl": "/Used/Squier/Used-Squier-Telecaster-Yellow-Solid-Body-Electric-Guitar-121176419.gc",
+                    "objectID": "site5121176419",
+                    "price": 169.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Squier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "priceVisibility": 1,
+                    "brand": "Squier",
+                    "imageId": "000000121176419",
+                    "review": {},
+                    "productId": "site5121176419",
+                    "identifiers": {
+                        "gcItemNumber": "121176419",
+                        "productEntId": "121176419",
+                        "skuEntId": "121176419"
+                    },
+                    "skuId": "site5121176419",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "storeName": "Monroeville, PA"
+                },
+                {
+                    "brand": "Fender",
+                    "review": {},
+                    "seoUrl": "/Used/Fender/Used-Fender-Standard-Stratocaster-2-Tone-Sunburst-Solid-Body-Electric-Guitar-121176417.gc",
+                    "storeName": "Monroeville, PA",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121176417",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121176417",
+                    "productId": "site5121176417",
+                    "skuId": "site5121176417",
+                    "displayName": "Used Fender Standard Stratocaster 2 Tone Sunburst Solid Body Electric Guitar",
+                    "price": 499.99,
+                    "identifiers": {
+                        "gcItemNumber": "121176417",
+                        "productEntId": "121176417",
+                        "skuEntId": "121176417"
+                    },
+                    "listPrice": 499.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    }
+                },
+                {
+                    "review": {},
+                    "skuId": "site5121176411",
+                    "seoUrl": "/Used/Jackson/Used-Jackson-JS32-Dinky-Natural-Solid-Body-Electric-Guitar-121176411.gc",
+                    "objectID": "site5121176411",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Jackson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121176411",
+                    "displayName": "Used Jackson JS32 Dinky Natural Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 174.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "storeName": "Towson, MD",
+                    "price": 174.99,
+                    "priceVisibility": 1,
+                    "brand": "Jackson",
+                    "productId": "site5121176411",
+                    "identifiers": {
+                        "gcItemNumber": "121176411",
+                        "productEntId": "121176411",
+                        "skuEntId": "121176411"
+                    }
+                },
+                {
+                    "imageId": "000000121170236",
+                    "productId": "site5121170236",
+                    "priceVisibility": 1,
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/ESP/Used-ESP-LTD-M200FM-RED-TRANS-FLAME-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Birmingham, AL",
+                    "objectID": "site5121170236",
+                    "displayName": "Used ESP LTD M200FM RED TRANS FLAME Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "skuId": "site5121170236",
+                    "listPrice": 329.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "ESP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "ESP",
+                    "price": 329.99,
+                    "identifiers": {
+                        "gcItemNumber": "121170236",
+                        "productEntId": "121170236",
+                        "skuEntId": "121170236"
+                    }
+                },
+                {
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "objectID": "site5121171924",
+                    "brand": "Gibson",
+                    "imageId": "000000121171924",
+                    "review": {},
+                    "productId": "site5121171924",
+                    "identifiers": {
+                        "gcItemNumber": "121171924",
+                        "productEntId": "121171924",
+                        "skuEntId": "121171924"
+                    },
+                    "listPrice": 849.99,
+                    "skuId": "site5121171924",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Les-Paul-Junior-Tribute-DC-Black-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Norman, OK",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Gibson Les Paul Junior Tribute DC Black Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 849.99
+                },
+                {
+                    "displayName": "Used Squier Classic Vibe 1950S Telecaster Left Handed Butterscotch Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121170220",
+                        "productEntId": "121170220",
+                        "skuEntId": "121170220"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Squier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "listPrice": 334.99,
+                    "imageId": "000000121170220",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "storeName": "Spartanburg, SC",
+                    "objectID": "site5121170220",
+                    "brand": "Squier",
+                    "price": 334.99,
+                    "productId": "site5121170220",
+                    "skuId": "site5121170220",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Squier/Used-Squier-Classic-Vibe-1950S-Telecaster-Left-Handed-Butterscotch-Electric-Guitar.gc"
+                },
+                {
+                    "skuId": "site5121180475",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "brand": "Schecter Guitar Research",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Crestwood, MO",
+                    "objectID": "site5121180475",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Schecter Guitar Research C-1 FR PLATINUM CHRIMSON Solid Body Electric Guitar",
+                    "review": {},
+                    "productId": "site5121180475",
+                    "identifiers": {
+                        "gcItemNumber": "121180475",
+                        "productEntId": "121180475",
+                        "skuEntId": "121180475"
+                    },
+                    "listPrice": 579.99,
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-C-1-FR-PLATINUM-CHRIMSON-Solid-Body-Electric-Guitar.gc",
+                    "imageId": "000000121180475",
+                    "price": 579.99
+                },
+                {
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121171893",
+                        "productEntId": "121171893",
+                        "skuEntId": "121171893"
+                    },
+                    "skuId": "site5121171893",
+                    "imageId": "000000121171893",
+                    "listPrice": 314.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/Squier/Used-Squier-PARANORMAL-OFFSET-TELE-Natural-Solid-Body-Electric-Guitar.gc",
+                    "brand": "Squier",
+                    "price": 314.99,
+                    "productId": "site5121171893",
+                    "storeName": "Overland Park, KS",
+                    "displayName": "Used Squier PARANORMAL OFFSET TELE Natural Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121171893",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Squier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "productId": "site5121171888",
+                    "listPrice": 1229.99,
+                    "skuId": "site5121171888",
+                    "storeName": "New Braunfels, TX",
+                    "objectID": "site5121171888",
+                    "imageId": "000000121171888",
+                    "displayName": "Used Fender American Showcase Stratocaster Olympic Pearl Solid Body Electric Guitar",
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Fender",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 1229.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121171888",
+                        "productEntId": "121171888",
+                        "skuEntId": "121171888"
+                    },
+                    "seoUrl": "/Used/Fender/Used-Fender-American-Showcase-Stratocaster-Olympic-Pearl-Solid-Body-Electric-Guitar-121171888.gc"
+                },
+                {
+                    "imageId": "000000121170147",
+                    "identifiers": {
+                        "gcItemNumber": "121170147",
+                        "partNumber": null,
+                        "productEntId": "121170147",
+                        "skuEntId": "121170147",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "storeName": "Columbia, SC",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "B.C. Rich",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "price": 139.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "brand": "B.C. Rich",
+                    "displayName": "Used B.C. Rich ASM1 Black Solid Body Electric Guitar",
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "productId": "site5121170147",
+                    "listPrice": 139.99,
+                    "objectID": "site5121170147",
+                    "skuId": "site5121170147",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/BC-Rich/Used-BC-Rich-ASM1-Black-Solid-Body-Electric-Guitar-121170147.gc"
+                },
+                {
+                    "brand": "ESP",
+                    "imageId": "000000121179785",
+                    "identifiers": {
+                        "gcItemNumber": "121179785",
+                        "productEntId": "121179785",
+                        "skuEntId": "121179785"
+                    },
+                    "skuId": "site5121179785",
+                    "priceVisibility": 1,
+                    "objectID": "site5121179785",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 799.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "ESP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "productId": "site5121179785",
+                    "seoUrl": "/Used/ESP/Used-ESP-LTD-EC1000-Deluxe-Trans-Purple-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Orange, CT",
+                    "displayName": "Used ESP LTD EC1000 Deluxe Trans Purple Solid Body Electric Guitar",
+                    "review": {},
+                    "price": 799.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    }
+                },
+                {
+                    "productId": "site5121170092",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "storeName": "Nashville, TN",
+                    "brand": "Fender",
+                    "displayName": "Used 2011 Fender American Special Stratocaster 3 Color Sunburst Solid Body Electric Guitar",
+                    "review": {},
+                    "price": 899.99,
+                    "identifiers": {
+                        "gcItemNumber": "121170092",
+                        "productEntId": "121170092",
+                        "skuEntId": "121170092"
+                    },
+                    "objectID": "site5121170092",
+                    "imageId": "000000121170092",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 899.99,
+                    "skuId": "site5121170092",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Fender/Used-2011-Fender-American-Special-Stratocaster-3-Color-Sunburst-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "imageId": "000000121179771",
+                    "price": 799.99,
+                    "identifiers": {
+                        "gcItemNumber": "121179771",
+                        "productEntId": "121179771",
+                        "skuEntId": "121179771"
+                    },
+                    "objectID": "site5121179771",
+                    "storeName": "Erie, PA",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Gibson Les Paul Tribute 2 Tone Sunburst Solid Body Electric Guitar",
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Les-Paul-Tribute-2-Tone-Sunburst-Solid-Body-Electric-Guitar-121179771.gc",
+                    "brand": "Gibson",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121179771",
+                    "listPrice": 799.99,
+                    "skuId": "site5121179771"
+                },
+                {
+                    "identifiers": {
+                        "gcItemNumber": "121179769",
+                        "productEntId": "121179769",
+                        "skuEntId": "121179769"
+                    },
+                    "listPrice": 459.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "displayName": "Used Epiphone sg standard 61 maestro red Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "objectID": "site5121179769",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121179769",
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-sg-standard-61-maestro-red-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Erie, PA",
+                    "skuId": "site5121179769",
+                    "priceVisibility": 1,
+                    "brand": "Epiphone",
+                    "price": 459.99,
+                    "productId": "site5121179769"
+                },
+                {
+                    "objectID": "site5121170076",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "price": 544.99,
+                    "listPrice": 544.99,
+                    "seoUrl": "/Used/PRS/Used-PRS-Mark-Tremonti-Signature-SE-Transparent-Grey-Black-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Fayetteville, GA",
+                    "productId": "site5121170076",
+                    "skuId": "site5121170076",
+                    "priceVisibility": 1,
+                    "brand": "PRS",
+                    "imageId": "000000121170076",
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "displayName": "Used PRS Mark Tremonti Signature SE Transparent Grey-Black Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121170076",
+                        "productEntId": "121170076",
+                        "skuEntId": "121170076"
+                    }
+                },
+                {
+                    "imageId": "000000121176226",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used 2018 Fender CLASSIC 50'S STRATOCASTER Daphne Blue Solid Body Electric Guitar",
+                    "productId": "site5121176226",
+                    "priceVisibility": 1,
+                    "objectID": "site5121176226",
+                    "identifiers": {
+                        "gcItemNumber": "121176226",
+                        "productEntId": "121176226",
+                        "skuEntId": "121176226"
+                    },
+                    "listPrice": 519.99,
+                    "seoUrl": "/Used/Fender/Used-2018-Fender-CLASSIC-50S-STRATOCASTER-Daphne-Blue-Solid-Body-Electric-Guitar.gc",
+                    "brand": "Fender",
+                    "price": 519.99,
+                    "skuId": "site5121176226",
+                    "storeName": "Towson, MD"
+                },
+                {
+                    "price": 1249.99,
+                    "listPrice": 1249.99,
+                    "identifiers": {
+                        "gcItemNumber": "121171729",
+                        "productEntId": "121171729",
+                        "skuEntId": "121171729"
+                    },
+                    "skuId": "site5121171729",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/PRS/Used-2019-PRS-S2-Singlecut-Simi-Hollow-Trans-Blue-Hollow-Body-Electric-Guitar.gc",
+                    "brand": "PRS",
+                    "displayName": "Used 2019 PRS S2 Singlecut Simi Hollow Trans Blue Hollow Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121171729",
+                    "storeName": "Denton, TX",
+                    "objectID": "site5121171729",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121171729",
+                    "review": {},
+                    "priceVisibility": 1
+                },
+                {
+                    "displayName": "Used Ibanez Gio Ax Blue Solid Body Electric Guitar",
+                    "listPrice": 99.99,
+                    "storeName": "North Attleboro, MA",
+                    "brand": "Ibanez",
+                    "productId": "site5121179709",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-Gio-Ax-Blue-Solid-Body-Electric-Guitar-121179709.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121179709",
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 99.99,
+                    "identifiers": {
+                        "gcItemNumber": "121179709",
+                        "productEntId": "121179709",
+                        "skuEntId": "121179709"
+                    },
+                    "skuId": "site5121179709",
+                    "objectID": "site5121179709"
+                },
+                {
+                    "displayName": "Used ESP LTD KH202 Kirk Hammett Signature Black Solid Body Electric Guitar",
+                    "productId": "site5121167535",
+                    "listPrice": 329.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "objectID": "site5121167535",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "skuId": "site5121167535",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "ESP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "ESP",
+                    "imageId": "000000121167535",
+                    "price": 329.99,
+                    "identifiers": {
+                        "gcItemNumber": "121167535",
+                        "productEntId": "121167535",
+                        "skuEntId": "121167535"
+                    },
+                    "seoUrl": "/Used/ESP/Used-ESP-LTD-KH202-Kirk-Hammett-Signature-Black-Solid-Body-Electric-Guitar-121167535.gc",
+                    "priceVisibility": 1,
+                    "storeName": "Raleigh, NC"
+                },
+                {
+                    "imageId": "000000121176134",
+                    "displayName": "Used Luwei 7 string electric guitar Natural Solid Body Electric Guitar",
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "price": 249.99,
+                    "productId": "site5121176134",
+                    "listPrice": 249.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121176134",
+                        "partNumber": null,
+                        "productEntId": "121176134",
+                        "skuEntId": "121176134",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "skuId": "site5121176134",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Luwei/Used-Luwei-7-string-electric-guitar-Natural-Solid-Body-Electric-Guitar.gc",
+                    "objectID": "site5121176134",
+                    "brand": "Luwei",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "storeName": "Monroeville, PA",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Luwei",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "brand": "Harley Benton",
+                    "review": {},
+                    "listPrice": 199.99,
+                    "seoUrl": "/Used/Harley-Benton/Used-Harley-Benton-DC-JR-RED-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Harley Benton",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121171697",
+                    "price": 199.99,
+                    "objectID": "site5121171697",
+                    "displayName": "Used Harley Benton DC JR  RED Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121171697",
+                    "identifiers": {
+                        "gcItemNumber": "121171697",
+                        "productEntId": "121171697",
+                        "skuEntId": "121171697"
+                    },
+                    "skuId": "site5121171697",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Sugar Land, TX"
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121176104",
+                        "productEntId": "121176104",
+                        "skuEntId": "121176104"
+                    },
+                    "storeName": "Somerville Circle, NJ",
+                    "brand": "PRS",
+                    "imageId": "000000121176104",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/PRS/Used-2025-PRS-modern-eagle-v-pink-burst-Solid-Body-Electric-Guitar.gc",
+                    "objectID": "site5121176104",
+                    "review": {},
+                    "productId": "site5121176104",
+                    "skuId": "site5121176104",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "displayName": "Used 2025 PRS modern eagle v pink burst Solid Body Electric Guitar",
+                    "price": 4499.99,
+                    "listPrice": 4499.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "brand": "Gibson",
+                    "displayName": "Used Gibson Les Paul Standard 60's Bourbon Burst Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "objectID": "site5121173779",
+                    "skuId": "site5121173779",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Les-Paul-Standard-60s-Bourbon-Burst-Solid-Body-Electric-Guitar-121173779.gc",
+                    "storeName": "Monroeville, PA",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121173779",
+                    "price": 1999.99,
+                    "productId": "site5121173779",
+                    "identifiers": {
+                        "gcItemNumber": "121173779",
+                        "productEntId": "121173779",
+                        "skuEntId": "121173779"
+                    },
+                    "listPrice": 1999.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    }
+                },
+                {
+                    "productId": "site5121173770",
+                    "identifiers": {
+                        "gcItemNumber": "121173770",
+                        "productEntId": "121173770",
+                        "skuEntId": "121173770"
+                    },
+                    "storeName": "Monroeville, PA",
+                    "objectID": "site5121173770",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 1499.99,
+                    "skuId": "site5121173770",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/Rickenbacker/Used-Rickenbacker-620-Jetglo-Solid-Body-Electric-Guitar.gc",
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Rickenbacker",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Rickenbacker",
+                    "imageId": "000000121173770",
+                    "listPrice": 1499.99,
+                    "displayName": "Used Rickenbacker 620 Jetglo Solid Body Electric Guitar"
+                },
+                {
+                    "review": {},
+                    "price": 549.99,
+                    "identifiers": {
+                        "gcItemNumber": "121173768",
+                        "productEntId": "121173768",
+                        "skuEntId": "121173768"
+                    },
+                    "storeName": "Monroeville, PA",
+                    "brand": "Schecter Guitar Research",
+                    "imageId": "000000121173768",
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-Diamond-Series-Ultra-Pelham-Blue-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "productId": "site5121173768",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "skuId": "site5121173768",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 549.99,
+                    "objectID": "site5121173768",
+                    "displayName": "Used Schecter Guitar Research Diamond Series Ultra Pelham Blue Solid Body Electric Guitar",
+                    "priceVisibility": 1
+                },
+                {
+                    "review": {},
+                    "skuId": "site5121173764",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "displayName": "Used Kiesel Solo 6 Custom Poplar Burst Solid Body Electric Guitar",
+                    "storeName": "Monroeville, PA",
+                    "listPrice": 1299.99,
+                    "seoUrl": "/Used/Kiesel/Used-Kiesel-Solo-6-Custom-Poplar-Burst-Solid-Body-Electric-Guitar.gc",
+                    "objectID": "site5121173764",
+                    "identifiers": {
+                        "gcItemNumber": "121173764",
+                        "productEntId": "121173764",
+                        "skuEntId": "121173764"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Kiesel",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Kiesel",
+                    "imageId": "000000121173764",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 1299.99,
+                    "productId": "site5121173764"
+                },
+                {
+                    "displayName": "Used Ibanez RGT1220PB ANTIQUE BROWN STAINED Solid Body Electric Guitar",
+                    "productId": "site5121167401",
+                    "storeName": "Nashville, TN",
+                    "identifiers": {
+                        "gcItemNumber": "121167401",
+                        "productEntId": "121167401",
+                        "skuEntId": "121167401"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-RGT1220PB-ANTIQUE-BROWN-STAINED-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "listPrice": 699.99,
+                    "skuId": "site5121167401",
+                    "objectID": "site5121167401",
+                    "brand": "Ibanez",
+                    "imageId": "000000121167401",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 699.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    }
+                },
+                {
+                    "displayName": "Used G\u0026L ASAT Special Natural Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "skuId": "site5121171646",
+                    "imageId": "000000121171646",
+                    "price": 1199.99,
+                    "productId": "site5121171646",
+                    "storeName": "Dallas, TX",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "G\u0026L",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "G\u0026L",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121171646",
+                        "productEntId": "121171646",
+                        "skuEntId": "121171646"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/GL/Used-GL-ASAT-Special-Natural-Solid-Body-Electric-Guitar-121171646.gc",
+                    "objectID": "site5121171646",
+                    "listPrice": 1199.99
+                },
+                {
+                    "brand": "Gibson",
+                    "imageId": "000000121171644",
+                    "seoUrl": "/Used/Gibson/Used-2014-Gibson-Les-Paul-Studio-Heritage-Sunburst-Solid-Body-Electric-Guitar.gc",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Fair"
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121171644",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 999.99,
+                    "productId": "site5121171644",
+                    "identifiers": {
+                        "gcItemNumber": "121171644",
+                        "productEntId": "121171644",
+                        "skuEntId": "121171644"
+                    },
+                    "displayName": "Used 2014 Gibson Les Paul Studio Heritage Sunburst Solid Body Electric Guitar",
+                    "review": {},
+                    "listPrice": 999.99,
+                    "skuId": "site5121171644",
+                    "storeName": "Lewisville, TX"
+                },
+                {
+                    "imageId": "000000121173744",
+                    "review": {},
+                    "price": 1649.99,
+                    "productId": "site5121173744",
+                    "identifiers": {
+                        "gcItemNumber": "121173744",
+                        "productEntId": "121173744",
+                        "skuEntId": "121173744"
+                    },
+                    "storeName": "Totowa, NJ",
+                    "brand": "EVH",
+                    "seoUrl": "/Used/EVH/Used-2023-EVH-Striped-Series-Frankie-Red-with-Black-and-White-Stripes-Solid-Body-Electric-Guitar.gc",
+                    "objectID": "site5121173744",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "EVH",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "displayName": "Used 2023 EVH Striped Series Frankie Red with Black and White Stripes Solid Body Electric Guitar",
+                    "skuId": "site5121173744",
+                    "priceVisibility": 1,
+                    "listPrice": 1649.99
+                },
+                {
+                    "imageId": "000000121171627",
+                    "displayName": "Used B.C. Rich KKW Keri King Warlock Shadow Black Solid Body Electric Guitar",
+                    "priceVisibility": 1,
+                    "objectID": "site5121171627",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "storeName": "New Braunfels, TX",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/BC-Rich/Used-BC-Rich-KKW-Keri-King-Warlock-Shadow-Black-Solid-Body-Electric-Guitar-121171627.gc",
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "productId": "site5121171627",
+                    "identifiers": {
+                        "gcItemNumber": "121171627",
+                        "partNumber": null,
+                        "productEntId": "121171627",
+                        "skuEntId": "121171627",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "skuId": "site5121171627",
+                    "brand": "B.C. Rich",
+                    "price": 549.99,
+                    "listPrice": 549.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "B.C. Rich",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121179611",
+                    "storeName": "Hobart, IN",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Schecter Guitar Research",
+                    "imageId": "000000121179611",
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-C1-FR-S-PLATINUM-Crimson-Red-Burst-Solid-Body-Electric-Guitar.gc",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121179611",
+                        "productEntId": "121179611",
+                        "skuEntId": "121179611"
+                    },
+                    "listPrice": 639.99,
+                    "skuId": "site5121179611",
+                    "priceVisibility": 1,
+                    "displayName": "Used Schecter Guitar Research C1 FR S PLATINUM  Crimson Red Burst Solid Body Electric Guitar",
+                    "price": 639.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "objectID": "site5121179611"
+                },
+                {
+                    "skuId": "site5121177962",
+                    "brand": "Epiphone",
+                    "imageId": "000000121177962",
+                    "listPrice": 479.99,
+                    "productId": "site5121177962",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-LES-PAUL-SPARKLE-PURPLE-FLAKE-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Appleton, WI",
+                    "objectID": "site5121177962",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121177962",
+                        "productEntId": "121177962",
+                        "skuEntId": "121177962"
+                    },
+                    "displayName": "Used Epiphone LES PAUL SPARKLE PURPLE FLAKE Solid Body Electric Guitar",
+                    "price": 479.99,
+                    "priceVisibility": 1
+                },
+                {
+                    "displayName": "Used PRS DGT 10 Top Blue Solid Body Electric Guitar",
+                    "productId": "site5121179608",
+                    "brand": "PRS",
+                    "seoUrl": "/Used/PRS/Used-PRS-DGT-10-Top-Blue-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Hobart, IN",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121179608",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "review": {},
+                    "price": 3149.99,
+                    "identifiers": {
+                        "gcItemNumber": "121179608",
+                        "productEntId": "121179608",
+                        "skuEntId": "121179608"
+                    },
+                    "skuId": "site5121179608",
+                    "imageId": "000000121179608",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 3149.99
+                },
+                {
+                    "price": 114.99,
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Squier/Used-Squier-Affinity-Stratocaster-Black-Solid-Body-Electric-Guitar-121171580.gc",
+                    "objectID": "site5121171580",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Squier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Squier",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121171580",
+                        "productEntId": "121171580",
+                        "skuEntId": "121171580"
+                    },
+                    "skuId": "site5121171580",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "imageId": "000000121171580",
+                    "productId": "site5121171580",
+                    "listPrice": 114.99,
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "storeName": "Mesquite, TX",
+                    "displayName": "Used Squier Affinity Stratocaster Black Solid Body Electric Guitar"
+                },
+                {
+                    "imageId": "000000121177914",
+                    "priceVisibility": 1,
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121177914",
+                        "productEntId": "121177914",
+                        "skuEntId": "121177914"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "seoUrl": "/Used/Gibson/Used-Gibson-SG-Tribute-Walnut-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Bridgeton, MO",
+                    "price": 949.99,
+                    "productId": "site5121177914",
+                    "objectID": "site5121177914",
+                    "brand": "Gibson",
+                    "displayName": "Used Gibson SG Tribute Walnut Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 949.99,
+                    "skuId": "site5121177914",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "priceVisibility": 1,
+                    "storeName": "Dallas, TX",
+                    "objectID": "site5121171564",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Gibson",
+                    "review": {},
+                    "price": 4499.99,
+                    "skuId": "site5121171564",
+                    "seoUrl": "/Used/Gibson/Used-Gibson-True-Historic-1960-Les-Paul-Standard-Sunburst-Solid-Body-Electric-Guitar.gc",
+                    "imageId": "000000121171564",
+                    "listPrice": 4499.99,
+                    "displayName": "Used Gibson True Historic 1960 Les Paul Standard Sunburst Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121171564",
+                    "identifiers": {
+                        "gcItemNumber": "121171564",
+                        "productEntId": "121171564",
+                        "skuEntId": "121171564"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    }
+                },
+                {
+                    "brand": "Gibson",
+                    "displayName": "Used Gibson SG Wine Red Solid Body Electric Guitar",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Crestwood, MO",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121177874",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 1199.99,
+                    "skuId": "site5121177874",
+                    "review": {},
+                    "productId": "site5121177874",
+                    "identifiers": {
+                        "gcItemNumber": "121177874",
+                        "productEntId": "121177874",
+                        "skuEntId": "121177874"
+                    },
+                    "listPrice": 1199.99,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-SG-Wine-Red-Solid-Body-Electric-Guitar-121177874.gc",
+                    "objectID": "site5121177874"
+                },
+                {
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-2017-Gibson-Les-Paul-Tribute-Honey-Blonde-Solid-Body-Electric-Guitar.gc",
+                    "displayName": "Used 2017 Gibson Les Paul Tribute Honey Blonde Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "objectID": "site5121167286",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121167286",
+                        "productEntId": "121167286",
+                        "skuEntId": "121167286"
+                    },
+                    "listPrice": 979.99,
+                    "review": {},
+                    "price": 979.99,
+                    "productId": "site5121167286",
+                    "storeName": "Fayetteville, GA",
+                    "brand": "Gibson",
+                    "imageId": "000000121167286",
+                    "skuId": "site5121167286"
+                },
+                {
+                    "skuId": "site5121173647",
+                    "priceVisibility": 1,
+                    "storeName": "Atlantic City, NJ",
+                    "objectID": "site5121173647",
+                    "imageId": "000000121173647",
+                    "displayName": "Used Fender Classic Series '70s Stratocaster Natural Solid Body Electric Guitar",
+                    "review": {},
+                    "productId": "site5121173647",
+                    "identifiers": {
+                        "gcItemNumber": "121173647",
+                        "productEntId": "121173647",
+                        "skuEntId": "121173647"
+                    },
+                    "brand": "Fender",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 699.99,
+                    "listPrice": 699.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "seoUrl": "/Used/Fender/Used-Fender-Classic-Series-70s-Stratocaster-Natural-Solid-Body-Electric-Guitar-121173647.gc"
+                },
+                {
+                    "listPrice": 2799.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "seoUrl": "/Used/ESP/Used-ESP-USA-M-II-Lynch-Burst-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Avondale, AZ",
+                    "brand": "ESP",
+                    "price": 2799.99,
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "productId": "site5121163198",
+                    "objectID": "site5121163198",
+                    "imageId": "000000121163198",
+                    "displayName": "Used ESP USA M-II Lynch Burst Solid Body Electric Guitar",
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "ESP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121163198",
+                        "productEntId": "121163198",
+                        "skuEntId": "121163198"
+                    },
+                    "skuId": "site5121163198"
+                },
+                {
+                    "displayName": "Used PRS McCarty 594 10-Top Red Tiger Solid Body Electric Guitar",
+                    "identifiers": {
+                        "gcItemNumber": "121163194",
+                        "productEntId": "121163194",
+                        "skuEntId": "121163194"
+                    },
+                    "listPrice": 2699.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "PRS",
+                    "price": 2699.99,
+                    "productId": "site5121163194",
+                    "priceVisibility": 1,
+                    "objectID": "site5121163194",
+                    "storeName": "Avondale, AZ",
+                    "seoUrl": "/Used/PRS/Used-PRS-McCarty-594-10-Top-Red-Tiger-Solid-Body-Electric-Guitar.gc",
+                    "imageId": "000000121163194",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "skuId": "site5121163194",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    }
+                },
+                {
+                    "storeName": "Salem, OR",
+                    "objectID": "site5121158320",
+                    "brand": "Slick",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 219.99,
+                    "skuId": "site5121158320",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Slick",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Slick SL59 Surf Green Solid Body Electric Guitar",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121158320",
+                        "productEntId": "121158320",
+                        "skuEntId": "121158320"
+                    },
+                    "imageId": "000000121158320",
+                    "price": 219.99,
+                    "productId": "site5121158320",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Slick/Used-Slick-SL59-Surf-Green-Solid-Body-Electric-Guitar.gc"
+                },
+                {
+                    "review": {},
+                    "listPrice": 264.99,
+                    "skuId": "site5121173605",
+                    "objectID": "site5121173605",
+                    "identifiers": {
+                        "gcItemNumber": "121173605",
+                        "productEntId": "121173605",
+                        "skuEntId": "121173605"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "priceVisibility": 1,
+                    "brand": "Schecter Guitar Research",
+                    "imageId": "000000121173605",
+                    "displayName": "Used Schecter Guitar Research Damien 6 Flat Black Solid Body Electric Guitar",
+                    "price": 264.99,
+                    "productId": "site5121173605",
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-Damien-6-Flat-Black-Solid-Body-Electric-Guitar-121173605.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "storeName": "Lancaster, PA"
+                },
+                {
+                    "displayName": "Used Yamaha Pacifica Tobacco Burst Solid Body Electric Guitar",
+                    "productId": "site5121177789",
+                    "storeName": "Canton, MI",
+                    "skuId": "site5121177789",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Yamaha",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Yamaha",
+                    "imageId": "000000121177789",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 199.99,
+                    "listPrice": 199.99,
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Yamaha/Used-Yamaha-Pacifica-Tobacco-Burst-Solid-Body-Electric-Guitar-121177789.gc",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121177789",
+                        "productEntId": "121177789",
+                        "skuEntId": "121177789"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "objectID": "site5121177789"
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 499.99,
+                    "priceVisibility": 1,
+                    "productId": "site5121167214",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "storeName": "Atlanta, GA",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121167214",
+                    "identifiers": {
+                        "gcItemNumber": "121167214",
+                        "productEntId": "121167214",
+                        "skuEntId": "121167214"
+                    },
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-SG-Modern-Figured-Mojave-Burst-Solid-Body-Electric-Guitar.gc",
+                    "brand": "Epiphone",
+                    "displayName": "Used Epiphone SG Modern Figured Mojave Burst Solid Body Electric Guitar",
+                    "review": {},
+                    "price": 499.99,
+                    "skuId": "site5121167214",
+                    "objectID": "site5121167214"
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121169387",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121169387",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121169387",
+                    "price": 1000.99,
+                    "listPrice": 1000.99,
+                    "identifiers": {
+                        "gcItemNumber": "121169387",
+                        "productEntId": "121169387",
+                        "skuEntId": "121169387"
+                    },
+                    "skuId": "site5121169387",
+                    "storeName": "Dallas, TX",
+                    "brand": "PRS",
+                    "displayName": "Used PRS PIEZO 2 Color Sunburst Hollow Body Electric Guitar",
+                    "review": {},
+                    "seoUrl": "/Used/PRS/Used-PRS-PIEZO-2-Color-Sunburst-Hollow-Body-Electric-Guitar.gc"
+                },
+                {
+                    "objectID": "site5121169362",
+                    "imageId": "000000121169362",
+                    "price": 2789.99,
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/PRS/Used-PRS-Studio-22-FIRE-RED-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Austin, TX",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used PRS Studio 22 FIRE RED Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121169362",
+                    "identifiers": {
+                        "gcItemNumber": "121169362",
+                        "productEntId": "121169362",
+                        "skuEntId": "121169362"
+                    },
+                    "review": {},
+                    "listPrice": 2789.99,
+                    "brand": "PRS",
+                    "skuId": "site5121169362",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    }
+                },
+                {
+                    "priceVisibility": 1,
+                    "storeName": "Atlantic City, NJ",
+                    "price": 2499.99,
+                    "listPrice": 2499.99,
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121173498",
+                    "identifiers": {
+                        "gcItemNumber": "121173498",
+                        "productEntId": "121173498",
+                        "skuEntId": "121173498"
+                    },
+                    "skuId": "site5121173498",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Valley Arts",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121173498",
+                    "sticker": [
+                        {
+                            "className": "stickerBlackLevel1",
+                            "name": "Vintage",
+                            "type": "top"
+                        }
+                    ],
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "objectID": "site5121173498",
+                    "brand": "Valley Arts",
+                    "review": {},
+                    "displayName": "Vintage 1986 Valley Arts Brent Mason Telecaster Gray Solid Body Electric Guitar",
+                    "seoUrl": "/Used/Valley-Arts/Vintage-Vintage-1986-Valley-Arts-Brent-Mason-Telecaster-Gray-Solid-Body-Electric-Guitar.gc"
+                },
+                {
+                    "imageId": "000000121173496",
+                    "displayName": "Used Gibson Les Paul Modern Lite wheat satin Solid Body Electric Guitar",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Les-Paul-Modern-Lite-wheat-satin-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Albany, NY",
+                    "brand": "Gibson",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "objectID": "site5121173496",
+                    "listPrice": 949.99,
+                    "identifiers": {
+                        "gcItemNumber": "121173496",
+                        "partNumber": null,
+                        "productEntId": "121173496",
+                        "skuEntId": "121173496",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "skuId": "site5121173496",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "price": 949.99,
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "productId": "site5121173496",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    }
+                },
+                {
+                    "price": 1199.99,
+                    "listPrice": 1199.99,
+                    "review": {},
+                    "skuId": "site5121176877",
+                    "storeName": "Southington, CT",
+                    "objectID": "site5121176877",
+                    "identifiers": {
+                        "gcItemNumber": "121176877",
+                        "productEntId": "121176877",
+                        "skuEntId": "121176877"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/PRS/Used-2018-PRS-S2-Custom-22-trans-gray-Solid-Body-Electric-Guitar.gc",
+                    "brand": "PRS",
+                    "imageId": "000000121176877",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121176877",
+                    "displayName": "Used 2018 PRS S2 Custom 22 trans gray Solid Body Electric Guitar",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "review": {},
+                    "listPrice": 369.99,
+                    "skuId": "site5121173489",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "storeName": "Plymouth Meeting, PA",
+                    "imageId": "000000121173489",
+                    "price": 369.99,
+                    "objectID": "site5121173489",
+                    "displayName": "Used Epiphone Les Paul Classic FADED CHERRY BURST Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121173489",
+                        "productEntId": "121173489",
+                        "skuEntId": "121173489"
+                    },
+                    "priceVisibility": 1,
+                    "brand": "Epiphone",
+                    "productId": "site5121173489",
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-Les-Paul-Classic-FADED-CHERRY-BURST-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "skuId": "site5121167132",
+                    "objectID": "site5121167132",
+                    "imageId": "000000121167132",
+                    "price": 199.99,
+                    "listPrice": 199.99,
+                    "brand": "Schecter Guitar Research",
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-c-6-elite-Trans-Purple-burst-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Pineville, NC",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "priceVisibility": 1,
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "productId": "site5121167132",
+                    "identifiers": {
+                        "gcItemNumber": "121167132",
+                        "productEntId": "121167132",
+                        "skuEntId": "121167132"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "displayName": "Used Schecter Guitar Research c-6 elite Trans Purple burst Solid Body Electric Guitar"
+                },
+                {
+                    "brand": "Gibson",
+                    "identifiers": {
+                        "gcItemNumber": "121169348",
+                        "productEntId": "121169348",
+                        "skuEntId": "121169348"
+                    },
+                    "objectID": "site5121169348",
+                    "productId": "site5121169348",
+                    "listPrice": 4499.99,
+                    "skuId": "site5121169348",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121169348",
+                    "seoUrl": "/Used/Gibson/Used-2018-Gibson-LES-PAUL-CUSTOM-SHOP-STANDARD-P90S-BRUNSWICK-BLUE-Solid-Body-Electric-Guitar.gc",
+                    "displayName": "Used 2018 Gibson LES PAUL CUSTOM SHOP STANDARD P90S BRUNSWICK BLUE Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 4499.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Oklahoma City, OK"
+                },
+                {
+                    "imageId": "000000121169346",
+                    "displayName": "Used Gretsch Guitars G6128T Duo Jet Green Solid Body Electric Guitar",
+                    "skuId": "site5121169346",
+                    "objectID": "site5121169346",
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gretsch Guitars",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "listPrice": 1769.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "storeName": "Oklahoma City, OK",
+                    "brand": "Gretsch Guitars",
+                    "review": {},
+                    "price": 1769.99,
+                    "productId": "site5121169346",
+                    "identifiers": {
+                        "gcItemNumber": "121169346",
+                        "productEntId": "121169346",
+                        "skuEntId": "121169346"
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "seoUrl": "/Used/Gretsch-Guitars/Used-Gretsch-Guitars-G6128T-Duo-Jet-Green-Solid-Body-Electric-Guitar.gc"
+                },
+                {
+                    "displayName": "Used Schecter Guitar Research Exotic Star Trans Red Solid Body Electric Guitar",
+                    "price": 624.99,
+                    "identifiers": {
+                        "gcItemNumber": "121177623",
+                        "productEntId": "121177623",
+                        "skuEntId": "121177623"
+                    },
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121177623",
+                    "productId": "site5121177623",
+                    "listPrice": 624.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-Exotic-Star-Trans-Red-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Southfield, MI",
+                    "brand": "Schecter Guitar Research",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "skuId": "site5121177623",
+                    "objectID": "site5121177623"
+                },
+                {
+                    "price": 1569.99,
+                    "skuId": "site5121169292",
+                    "listPrice": 1569.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/Ernie-Ball-Music-Man/Used-Ernie-Ball-Music-Man-Steve-Morse-Signature-Y2D-PURPLE-SUNSET-Solid-Body-Electric-Guitar.gc",
+                    "brand": "Ernie Ball Music Man",
+                    "imageId": "000000121169292",
+                    "productId": "site5121169292",
+                    "identifiers": {
+                        "gcItemNumber": "121169292",
+                        "productEntId": "121169292",
+                        "skuEntId": "121169292"
+                    },
+                    "storeName": "San Antonio, TX",
+                    "objectID": "site5121169292",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ernie Ball Music Man",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Ernie Ball Music Man Steve Morse Signature Y2D PURPLE SUNSET Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "priceVisibility": 1
+                },
+                {
+                    "productId": "site5121173435",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Fender/Used-Fender-LTD-Edition-Offset-Telecaster-Olympic-White-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Fairfax, VA",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Fender LTD Edition Offset Telecaster Olympic White Solid Body Electric Guitar",
+                    "price": 1399.99,
+                    "skuId": "site5121173435",
+                    "objectID": "site5121173435",
+                    "imageId": "000000121173435",
+                    "brand": "Fender",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121173435",
+                        "productEntId": "121173435",
+                        "skuEntId": "121173435"
+                    },
+                    "listPrice": 1399.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    }
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 499.99,
+                    "priceVisibility": 1,
+                    "objectID": "site5121169262",
+                    "displayName": "Used Fender Player Stratocaster Daphne Blue Solid Body Electric Guitar",
+                    "identifiers": {
+                        "gcItemNumber": "121169262",
+                        "productEntId": "121169262",
+                        "skuEntId": "121169262"
+                    },
+                    "skuId": "site5121169262",
+                    "imageId": "000000121169262",
+                    "price": 499.99,
+                    "storeName": "Central Dallas, TX",
+                    "seoUrl": "/Used/Fender/Used-Fender-Player-Stratocaster-Daphne-Blue-Solid-Body-Electric-Guitar-121169262.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Fender",
+                    "review": {},
+                    "productId": "site5121169262",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    }
+                },
+                {
+                    "imageId": "000000121169260",
+                    "displayName": "Used Fender Deluxe Powerhouse Stratocaster Yellow Solid Body Electric Guitar",
+                    "listPrice": 499.99,
+                    "skuId": "site5121169260",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Fender/Used-Fender-Deluxe-Powerhouse-Stratocaster-Yellow-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Fender",
+                    "productId": "site5121169260",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "storeName": "Woodlands, TX",
+                    "objectID": "site5121169260",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121169260",
+                        "partNumber": null,
+                        "productEntId": "121169260",
+                        "skuEntId": "121169260",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "price": 499.99
+                },
+                {
+                    "listPrice": 2119.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121176831",
+                    "brand": "Gibson",
+                    "imageId": "000000121176831",
+                    "displayName": "Used Gibson ES335 Satin Red Hollow Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 2119.99,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-ES335-Satin-Red-Hollow-Body-Electric-Guitar-121176831.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "productId": "site5121176831",
+                    "identifiers": {
+                        "gcItemNumber": "121176831",
+                        "productEntId": "121176831",
+                        "skuEntId": "121176831"
+                    },
+                    "skuId": "site5121176831",
+                    "storeName": "Hobart, IN"
+                },
+                {
+                    "brand": "Gibson",
+                    "price": 4149.99,
+                    "listPrice": 4149.99,
+                    "skuId": "site5121167027",
+                    "storeName": "Marietta, GA",
+                    "objectID": "site5121167027",
+                    "imageId": "000000121167027",
+                    "productId": "site5121167027",
+                    "identifiers": {
+                        "gcItemNumber": "121167027",
+                        "productEntId": "121167027",
+                        "skuEntId": "121167027"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Gibson Les Paul Axcess Custom Iced Tea Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "priceVisibility": 1,
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Les-Paul-Axcess-Custom-Iced-Tea-Solid-Body-Electric-Guitar.gc"
+                },
+                {
+                    "listPrice": 1459.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Fair"
+                    },
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Les-Paul-Standard-Black-Solid-Body-Electric-Guitar-121166934.gc",
+                    "objectID": "site5121166934",
+                    "imageId": "000000121166934",
+                    "displayName": "Used Gibson Les Paul Standard Black Solid Body Electric Guitar",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121166934",
+                        "productEntId": "121166934",
+                        "skuEntId": "121166934"
+                    },
+                    "brand": "Gibson",
+                    "price": 1459.99,
+                    "productId": "site5121166934",
+                    "skuId": "site5121166934",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Alpharetta, GA"
+                },
+                {
+                    "price": 549.99,
+                    "productId": "site5121169204",
+                    "skuId": "site5121169204",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/PRS/Used-PRS-CM4TS-SE-Custom-24-Left-Handed-Tobacco-Sunburst-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121169204",
+                    "objectID": "site5121169204",
+                    "identifiers": {
+                        "gcItemNumber": "121169204",
+                        "productEntId": "121169204",
+                        "skuEntId": "121169204"
+                    },
+                    "listPrice": 549.99,
+                    "storeName": "Tyler, TX",
+                    "brand": "PRS",
+                    "displayName": "Used PRS CM4TS SE Custom 24 Left Handed Tobacco Sunburst Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {}
+                },
+                {
+                    "price": 209.99,
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-RG4EX1-Dark-Blue-Solid-Body-Electric-Guitar.gc",
+                    "objectID": "site5121170953",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121170953",
+                    "skuId": "site5121170953",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Fair"
+                    },
+                    "priceVisibility": 1,
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "productId": "site5121170953",
+                    "identifiers": {
+                        "gcItemNumber": "121170953",
+                        "partNumber": null,
+                        "productEntId": "121170953",
+                        "skuEntId": "121170953",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "brand": "Ibanez",
+                    "displayName": "Used Ibanez RG4EX1 Dark Blue Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "listPrice": 209.99,
+                    "storeName": "Towson, MD"
+                },
+                {
+                    "identifiers": {
+                        "gcItemNumber": "121170925",
+                        "productEntId": "121170925",
+                        "skuEntId": "121170925"
+                    },
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-Prestige-AZ2204NW-Mint-Green-Electric-Guitar-121170925.gc",
+                    "storeName": "Fredericksburg, VA",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Ibanez",
+                    "displayName": "Used Ibanez Prestige AZ2204NW Mint Green Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "productId": "site5121170925",
+                    "listPrice": 1549.99,
+                    "priceVisibility": 1,
+                    "objectID": "site5121170925",
+                    "imageId": "000000121170925",
+                    "price": 1549.99,
+                    "skuId": "site5121170925"
+                },
+                {
+                    "imageId": "000000121164020",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121164020",
+                    "objectID": "site5121164020",
+                    "brand": "Rickenbacker",
+                    "identifiers": {
+                        "gcItemNumber": "121164020",
+                        "productEntId": "121164020",
+                        "skuEntId": "121164020"
+                    },
+                    "listPrice": 2399.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "displayName": "Used 2019 Rickenbacker 350V63 Mapleglo Solid Body Electric Guitar",
+                    "price": 2399.99,
+                    "priceVisibility": 1,
+                    "storeName": "Raleigh, NC",
+                    "review": {},
+                    "skuId": "site5121164020",
+                    "seoUrl": "/Used/Rickenbacker/Used-2019-Rickenbacker-350V63-Mapleglo-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Rickenbacker",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "review": {},
+                    "price": 599.99,
+                    "identifiers": {
+                        "gcItemNumber": "121177493",
+                        "productEntId": "121177493",
+                        "skuEntId": "121177493"
+                    },
+                    "skuId": "site5121177493",
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-RGA42HPT-Laser-Blue-Matte-Solid-Body-Electric-Guitar.gc",
+                    "imageId": "000000121177493",
+                    "objectID": "site5121177493",
+                    "storeName": "Twin Cities, MN",
+                    "priceVisibility": 1,
+                    "productId": "site5121177493",
+                    "displayName": "Used Ibanez RGA42HPT Laser Blue Matte Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 599.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Ibanez"
+                },
+                {
+                    "listPrice": 2499.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "storeName": "Atlantic City, NJ",
+                    "objectID": "site5121170918",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 2499.99,
+                    "productId": "site5121170918",
+                    "identifiers": {
+                        "gcItemNumber": "121170918",
+                        "productEntId": "121170918",
+                        "skuEntId": "121170918"
+                    },
+                    "skuId": "site5121170918",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "PRS",
+                    "imageId": "000000121170918",
+                    "displayName": "Used 2013 PRS Custom 24 CHARCOAL VIOLET BURST Solid Body Electric Guitar",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/PRS/Used-2013-PRS-Custom-24-CHARCOAL-VIOLET-BURST-Solid-Body-Electric-Guitar.gc"
+                },
+                {
+                    "brand": "Ibanez",
+                    "identifiers": {
+                        "gcItemNumber": "121175040",
+                        "partNumber": null,
+                        "productEntId": "121175040",
+                        "skuEntId": "121175040",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "listPrice": 114.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-Gio-Mikro-Blue-Solid-Body-Electric-Guitar-121175040.gc",
+                    "storeName": "Crestwood, MO",
+                    "objectID": "site5121175040",
+                    "imageId": "000000121175040",
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "productId": "site5121175040",
+                    "skuId": "site5121175040",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Ibanez Gio Mikro Blue Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "price": 114.99,
+                    "priceVisibility": 1
+                },
+                {
+                    "identifiers": {
+                        "gcItemNumber": "121169040",
+                        "productEntId": "121169040",
+                        "skuEntId": "121169040"
+                    },
+                    "storeName": "Tyler, TX",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "skuId": "site5121169040",
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-AS73TCD-Wine-Red-Hollow-Body-Electric-Guitar.gc",
+                    "brand": "Ibanez",
+                    "imageId": "000000121169040",
+                    "priceVisibility": 1,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Ibanez AS73TCD Wine Red Hollow Body Electric Guitar",
+                    "price": 299.99,
+                    "productId": "site5121169040",
+                    "listPrice": 299.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "objectID": "site5121169040"
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121174988",
+                    "skuId": "site5121174988",
+                    "brand": "Epiphone",
+                    "imageId": "000000121174988",
+                    "displayName": "Used Epiphone LES PAUL CUSTOM INSPIRED BY GIBSON Alpine White Solid Body Electric Guitar",
+                    "listPrice": 849.99,
+                    "objectID": "site5121174988",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "price": 849.99,
+                    "identifiers": {
+                        "gcItemNumber": "121174988",
+                        "productEntId": "121174988",
+                        "skuEntId": "121174988"
+                    },
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-LES-PAUL-CUSTOM-INSPIRED-BY-GIBSON-Alpine-White-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "South Springfield, MO"
+                },
+                {
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "price": 499.99,
+                    "identifiers": {
+                        "gcItemNumber": "121169007",
+                        "partNumber": null,
+                        "productEntId": "121169007",
+                        "skuEntId": "121169007",
+                        "skuPIMId": null,
+                        "upccode": null
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Tyler, TX",
+                    "productId": "site5121169007",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "listPrice": 499.99,
+                    "brand": "Epiphone",
+                    "imageId": "000000121169007",
+                    "displayName": "Used Epiphone Broadway Yellow Hollow Body Electric Guitar",
+                    "skuId": "site5121169007",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-Broadway-Yellow-Hollow-Body-Electric-Guitar.gc",
+                    "objectID": "site5121169007",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "identifiers": {
+                        "gcItemNumber": "121169002",
+                        "productEntId": "121169002",
+                        "skuEntId": "121169002"
+                    },
+                    "objectID": "site5121169002",
+                    "displayName": "Used Ibanez RG330 Black Solid Body Electric Guitar",
+                    "review": {},
+                    "productId": "site5121169002",
+                    "storeName": "South Austin, TX",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "skuId": "site5121169002",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Ibanez/Used-Ibanez-RG330-Black-Solid-Body-Electric-Guitar.gc",
+                    "imageId": "000000121169002",
+                    "price": 224.99,
+                    "listPrice": 224.99,
+                    "brand": "Ibanez",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    }
+                },
+                {
+                    "storeName": "Oklahoma City, OK",
+                    "brand": "Ibanez",
+                    "sticker": [
+                        {
+                            "className": "stickerBlackLevel1",
+                            "name": "Vintage",
+                            "type": "top"
+                        }
+                    ],
+                    "seoUrl": "/Used/Ibanez/Vintage-Vintage-1970s-Ibanez-2350-SINGLECUT-Cherry-Sunburst-Solid-Body-Electric-Guitar.gc",
+                    "displayName": "Vintage 1970s Ibanez 2350 SINGLECUT Cherry Sunburst Solid Body Electric Guitar",
+                    "review": {
+                        "overallRating": null,
+                        "totalReviews": null
+                    },
+                    "priceVisibility": 1,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "objectID": "site5121169000",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": "2021-09-28T07:00:00.000+0000"
+                    },
+                    "price": 699.99,
+                    "skuId": "site5121169000",
+                    "listPrice": 699.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Ibanez",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121169000",
+                    "productId": "site5121169000",
+                    "identifiers": {
+                        "gcItemNumber": "121169000",
+                        "partNumber": null,
+                        "productEntId": "121169000",
+                        "skuEntId": "121169000",
+                        "skuPIMId": null,
+                        "upccode": null
+                    }
+                },
+                {
+                    "brand": "ESP",
+                    "displayName": "Used ESP LTD EC1000 FR Black Solid Body Electric Guitar",
+                    "skuId": "site5121160172",
+                    "priceVisibility": 1,
+                    "imageId": "000000121160172",
+                    "storeName": "Scottsdale, AZ",
+                    "objectID": "site5121160172",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 849.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "seoUrl": "/Used/ESP/Used-ESP-LTD-EC1000-FR-Black-Solid-Body-Electric-Guitar-121160172.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "ESP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "review": {},
+                    "price": 849.99,
+                    "productId": "site5121160172",
+                    "identifiers": {
+                        "gcItemNumber": "121160172",
+                        "productEntId": "121160172",
+                        "skuEntId": "121160172"
+                    }
+                },
+                {
+                    "imageId": "000000121165893",
+                    "displayName": "Used Fender Special Edition Ebony HSS Stratocaster Black Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "objectID": "site5121165893",
+                    "productId": "site5121165893",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Fender/Used-Fender-Special-Edition-Ebony-HSS-Stratocaster-Black-Solid-Body-Electric-Guitar.gc",
+                    "brand": "Fender",
+                    "price": 849.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121165893",
+                        "productEntId": "121165893",
+                        "skuEntId": "121165893"
+                    },
+                    "listPrice": 849.99,
+                    "skuId": "site5121165893",
+                    "storeName": "Mesquite, TX",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "imageId": "000000121165886",
+                    "displayName": "Used PRS se swamp ce 24 sandblasted white Solid Body Electric Guitar",
+                    "price": 499.99,
+                    "identifiers": {
+                        "gcItemNumber": "121165886",
+                        "productEntId": "121165886",
+                        "skuEntId": "121165886"
+                    },
+                    "skuId": "site5121165886",
+                    "review": {},
+                    "listPrice": 499.99,
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "storeName": "Lubbock, TX",
+                    "objectID": "site5121165886",
+                    "brand": "PRS",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "productId": "site5121165886",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/PRS/Used-PRS-se-swamp-ce-24-sandblasted-white-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "PRS",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                },
+                {
+                    "brand": "Squier",
+                    "listPrice": 134.99,
+                    "skuId": "site5121170811",
+                    "storeName": "Johnson City, NY",
+                    "price": 134.99,
+                    "productId": "site5121170811",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Squier/Used-Squier-Telecaster-Gray-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Squier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used Squier Telecaster Gray Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "objectID": "site5121170811",
+                    "imageId": "000000121170811",
+                    "identifiers": {
+                        "gcItemNumber": "121170811",
+                        "productEntId": "121170811",
+                        "skuEntId": "121170811"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    }
+                },
+                {
+                    "displayName": "Used 2020s Schecter Guitar Research Jeff Loomis JLX-1 Blood Red Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 1499.99,
+                    "priceVisibility": 1,
+                    "price": 1499.99,
+                    "identifiers": {
+                        "gcItemNumber": "121174199",
+                        "productEntId": "121174199",
+                        "skuEntId": "121174199"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    },
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-2020s-Schecter-Guitar-Research-Jeff-Loomis-JLX-1-Blood-Red-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Braintree, MA",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Schecter Guitar Research",
+                    "productId": "site5121174199",
+                    "objectID": "site5121174199",
+                    "imageId": "000000121174199",
+                    "review": {},
+                    "skuId": "site5121174199"
+                },
+                {
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "brand": "Gibson",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121165871",
+                        "productEntId": "121165871",
+                        "skuEntId": "121165871"
+                    },
+                    "skuId": "site5121165871",
+                    "price": 2499.99,
+                    "productId": "site5121165871",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Kirk-Hammett-Greeny-Les-Paul-Standard-Greeny-Burst-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Plano, TX",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121165871",
+                    "review": {},
+                    "objectID": "site5121165871",
+                    "displayName": "Used Gibson Kirk Hammett \"Greeny\" Les Paul Standard Greeny Burst Solid Body Electric Guitar",
+                    "listPrice": 2499.99
+                },
+                {
+                    "imageId": "000000121165869",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 2499.99,
+                    "priceVisibility": 1,
+                    "objectID": "site5121165869",
+                    "brand": "Gibson",
+                    "productId": "site5121165869",
+                    "seoUrl": "/Used/Gibson/Used-Gibson-Slash-Les-Paul-Standard-50s-Appetite-Burst-Solid-Body-Electric-Guitar-121165869.gc",
+                    "displayName": "Used Gibson Slash Les Paul Standard '50s Appetite Burst Solid Body Electric Guitar",
+                    "review": {},
+                    "price": 2499.99,
+                    "identifiers": {
+                        "gcItemNumber": "121165869",
+                        "productEntId": "121165869",
+                        "skuEntId": "121165869"
+                    },
+                    "skuId": "site5121165869",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Excellent"
+                    },
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Gibson",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "storeName": "Plano, TX"
+                },
+                {
+                    "storeName": "Williston, VT",
+                    "productId": "site5121174181",
+                    "skuId": "site5121174181",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-FIREBIRD-RUBY-RED-METALLIC-Solid-Body-Electric-Guitar.gc",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "imageId": "000000121174181",
+                    "review": {},
+                    "identifiers": {
+                        "gcItemNumber": "121174181",
+                        "productEntId": "121174181",
+                        "skuEntId": "121174181"
+                    },
+                    "priceVisibility": 1,
+                    "brand": "Epiphone",
+                    "displayName": "Used Epiphone FIREBIRD RUBY RED METALLIC Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "listPrice": 549.99,
+                    "price": 549.99,
+                    "objectID": "site5121174181"
+                },
+                {
+                    "imageId": "000000121174131",
+                    "priceVisibility": 1,
+                    "seoUrl": "/Used/Squier/Used-Squier-Mini-Affinity-Stratocaster-Black-Electric-Guitar.gc",
+                    "storeName": "Millbury, MA",
+                    "identifiers": {
+                        "gcItemNumber": "121174131",
+                        "productEntId": "121174131",
+                        "skuEntId": "121174131"
+                    },
+                    "objectID": "site5121174131",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Squier",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "price": 89.99,
+                    "productId": "site5121174131",
+                    "listPrice": 89.99,
+                    "skuId": "site5121174131",
+                    "brand": "Squier",
+                    "displayName": "Used Squier Mini Affinity Stratocaster Black Electric Guitar",
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    }
+                },
+                {
+                    "skuId": "site5121163769",
+                    "priceVisibility": 1,
+                    "objectID": "site5121163769",
+                    "seoUrl": "/Used/Fender/Vintage-Vintage-1965-Fender-Mustang-Daphne-Blue-Solid-Body-Electric-Guitar.gc",
+                    "displayName": "Vintage 1965 Fender Mustang Daphne Blue Solid Body Electric Guitar",
+                    "sticker": [
+                        {
+                            "className": "stickerBlackLevel1",
+                            "name": "Vintage",
+                            "type": "top"
+                        }
+                    ],
+                    "price": 2999.99,
+                    "review": {},
+                    "listPrice": 2999.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "productId": "site5121163769",
+                    "identifiers": {
+                        "gcItemNumber": "121163769",
+                        "productEntId": "121163769",
+                        "skuEntId": "121163769"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "storeName": "Asheville, NC",
+                    "brand": "Fender",
+                    "imageId": "000000121163769",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    }
+                },
+                {
+                    "displayName": "Used Metal Driver S  Purple Solid Body Electric Guitar",
+                    "productId": "site5121163744",
+                    "identifiers": {
+                        "gcItemNumber": "121163744",
+                        "productEntId": "121163744",
+                        "skuEntId": "121163744"
+                    },
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "priceVisibility": 1,
+                    "storeName": "Gwinnett, GA",
+                    "imageId": "000000121163744",
+                    "listPrice": 99.99,
+                    "skuId": "site5121163744",
+                    "seoUrl": "/Used/Metal-Driver/Used-Metal-Driver-S-Purple-Solid-Body-Electric-Guitar.gc",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "objectID": "site5121163744",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Metal Driver",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Metal Driver",
+                    "price": 99.99
+                },
+                {
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "listPrice": 849.99,
+                    "seoUrl": "/Used/ESP/Used-ESP-LTD-Phoenix-1000-Trans-Black-Solid-Body-Electric-Guitar.gc",
+                    "objectID": "site5121174111",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "ESP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "ESP",
+                    "imageId": "000000121174111",
+                    "identifiers": {
+                        "gcItemNumber": "121174111",
+                        "productEntId": "121174111",
+                        "skuEntId": "121174111"
+                    },
+                    "skuId": "site5121174111",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "displayName": "Used ESP LTD Phoenix 1000 Trans Black Solid Body Electric Guitar",
+                    "price": 849.99,
+                    "storeName": "Hobart, IN",
+                    "productId": "site5121174111",
+                    "priceVisibility": 1
+                },
+                {
+                    "listPrice": 1299.99,
+                    "objectID": "site5121163692",
+                    "brand": "Fender",
+                    "displayName": "Used Fender American Deluxe Telecaster HH QMT Trans Blue Solid Body Electric Guitar",
+                    "skuId": "site5121163692",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "price": 1299.99,
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "seoUrl": "/Used/Fender/Used-Fender-American-Deluxe-Telecaster-HH-QMT-Trans-Blue-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Savannah, GA",
+                    "imageId": "000000121163692",
+                    "productId": "site5121163692",
+                    "identifiers": {
+                        "gcItemNumber": "121163692",
+                        "productEntId": "121163692",
+                        "skuEntId": "121163692"
+                    },
+                    "priceVisibility": 1
+                },
+                {
+                    "price": 569.99,
+                    "productId": "site5121163663",
+                    "skuId": "site5121163663",
+                    "seoUrl": "/Used/Fender/Used-2021-Fender-Player-Plus-Stratocaster-blue-Solid-Body-Electric-Guitar.gc",
+                    "identifiers": {
+                        "gcItemNumber": "121163663",
+                        "productEntId": "121163663",
+                        "skuEntId": "121163663"
+                    },
+                    "listPrice": 569.99,
+                    "objectID": "site5121163663",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "displayName": "Used 2021 Fender Player Plus Stratocaster blue Solid Body Electric Guitar",
+                    "priceVisibility": 1,
+                    "storeName": "Winston-Salem, NC",
+                    "brand": "Fender",
+                    "imageId": "000000121163663",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    }
+                },
+                {
+                    "brand": "Fender",
+                    "imageId": "000000121163658",
+                    "listPrice": 729.99,
+                    "storeName": "Hickory Corners, NC",
+                    "displayName": "Used Fender Classic Series '72 Telecaster Thinline Natural Hollow Body Electric Guitar",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "seoUrl": "/Used/Fender/Used-Fender-Classic-Series-72-Telecaster-Thinline-Natural-Hollow-Body-Electric-Guitar-121163658.gc",
+                    "priceVisibility": 1,
+                    "objectID": "site5121163658",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "productId": "site5121163658",
+                    "identifiers": {
+                        "gcItemNumber": "121163658",
+                        "productEntId": "121163658",
+                        "skuEntId": "121163658"
+                    },
+                    "skuId": "site5121163658",
+                    "price": 729.99
+                },
+                {
+                    "seoUrl": "/Used/Epiphone/Used-Epiphone-Les-Paul-Standard-1960s-Quilt-Top-Trans-Blue-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Memphis, TN",
+                    "displayName": "Used Epiphone Les Paul Standard 1960s Quilt Top Trans Blue Solid Body Electric Guitar",
+                    "productId": "site5121163648",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "priceVisibility": 1,
+                    "objectID": "site5121163648",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Epiphone",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "brand": "Epiphone",
+                    "imageId": "000000121163648",
+                    "identifiers": {
+                        "gcItemNumber": "121163648",
+                        "productEntId": "121163648",
+                        "skuEntId": "121163648"
+                    },
+                    "listPrice": 499.99,
+                    "skuId": "site5121163648",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "review": {},
+                    "price": 499.99
+                },
+                {
+                    "objectID": "site5121174723",
+                    "imageId": "000000121174723",
+                    "price": 849.99,
+                    "productId": "site5121174723",
+                    "priceVisibility": 1,
+                    "displayName": "Used 2002 Fender American Standard Telecaster Candy Apple Red Solid Body Electric Guitar",
+                    "review": {},
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Fender",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "identifiers": {
+                        "gcItemNumber": "121174723",
+                        "productEntId": "121174723",
+                        "skuEntId": "121174723"
+                    },
+                    "seoUrl": "/Used/Fender/Used-2002-Fender-American-Standard-Telecaster-Candy-Apple-Red-Solid-Body-Electric-Guitar.gc",
+                    "storeName": "Flint, MI",
+                    "brand": "Fender",
+                    "listPrice": 849.99,
+                    "skuId": "site5121174723",
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Good"
+                    }
+                },
+                {
+                    "identifiers": {
+                        "gcItemNumber": "121163611",
+                        "productEntId": "121163611",
+                        "skuEntId": "121163611"
+                    },
+                    "listPrice": 899.99,
+                    "priceVisibility": 1,
+                    "objectID": "site5121163611",
+                    "_highlightResult": {
+                        "brand": {
+                            "value": "Schecter Guitar Research",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    },
+                    "price": 899.99,
+                    "productId": "site5121163611",
+                    "skuId": "site5121163611",
+                    "seoUrl": "/Used/Schecter-Guitar-Research/Used-Schecter-Guitar-Research-Synyster-Gates-Signature-Custom-S-Black-and-Gold-Pinstripe-Solid-Body-Electric-Guitar.gc",
+                    "displayName": "Used Schecter Guitar Research Synyster Gates Signature Custom S Black and Gold Pinstripe Solid Body Electric Guitar",
+                    "easyPayOption": {
+                        "monthlyPayment": 0,
+                        "months": 0,
+                        "specialFinancing": true,
+                        "startDate": 1632812400000
+                    },
+                    "review": {},
+                    "condition": {
+                        "lvl0": "Used",
+                        "lvl1": "Used \u003e Great"
+                    },
+                    "storeName": "Cool Springs, TN",
+                    "brand": "Schecter Guitar Research",
+                    "imageId": "000000121163611"
+                }
+            ],
+            "nbHits": 14084,
+            "hitsPerPage": 96,
+            "index": "guitarcenter",
+            "page": 1,
+            "nbPages": 147,
+            "processingTimeMS": 177,
+            "processingTimingsMS": {
+                "total": 177,
+                "rules": 4,
+                "fetch": {
+                    "total": 122,
+                    "facetingAfterDistinct": 8,
+                    "scanning": 112
+                },
+                "afterFetch": {
+                    "total": 40,
+                    "format": {
+                        "total": 1
+                    },
+                    "merge": {
+                        "distinctProcessing": {
+                            "total": 3
+                        },
+                        "entries": {
+                            "parse": 20,
+                            "total": 26,
+                            "decompress": 5
+                        },
+                        "total": 39,
+                        "mergeLoop": {
+                            "total": 34,
+                            "distinct": 2
+                        }
+                    }
+                },
+                "getIdx": {
+                    "load": {
+                        "gens": 1,
+                        "total": 2
+                    }
+                }
+            },
+            "exhaustiveNbHits": false,
+            "exhaustiveTypo": true,
+            "facets_stats": {
+                "skuCondition": {
+                    "min": 6,
+                    "max": 10,
+                    "avg": 7,
+                    "sum": 100683
+                },
+                "inventoryStatus": {
+                    "min": 1000,
+                    "max": 1000,
+                    "avg": 1000,
+                    "sum": 14084000
+                },
+                "review.overallRating": {
+                    "min": 0,
+                    "max": 0,
+                    "avg": 0,
+                    "sum": 0
+                }
+            },
+            "query": "",
+            "queryAfterRemoval": "",
+            "queryID": "fd591dc56d78b99852037a930ada8ec1",
+            "_automaticInsights": true,
+            "params": "analyticsTags=%5B%22guest%22%2C%22human%22%2C%22desktop%22%2C%22macOS%22%2C%22https%3A%2F%2Fwww.guitarcenter.com%2FUsed%2FGuitars.gc%3Ficid%3DLP8675%22%2C%22atgc09%22%5D\u0026facetFilters=%5B%22categories.lvl1%3AGuitars+%3E+Electric+Guitars%22%2C%22condition.lvl0%3AUsed%22%2C%22isSerial%3A-true%22%2C%22retailOnly%3A-true%22%5D\u0026facets=%5B%22%2A%22%5D\u0026hitsPerPage=96\u0026maxValuesPerFacet=10\u0026numericFilters=%5B%22startDate%3C%3D1749902426%22%5D\u0026page=1\u0026query\u0026ruleContexts=%5B%22used-page%22%2C%22%2FUsed%2FElectric-Guitars.gc%22%5D\u0026userToken=7814638243",
+            "facets": {
+                "brand": {
+                    "Fender": 2504,
+                    "Gibson": 1757,
+                    "Epiphone": 1168,
+                    "PRS": 1017,
+                    "Ibanez": 864,
+                    "Schecter Guitar Research": 603,
+                    "Jackson": 598,
+                    "ESP": 554,
+                    "Gretsch Guitars": 452,
+                    "Squier": 291
+                },
+                "deals": {
+                    "New Arrivals": 662
+                },
+                "stores": {
+                    "Orange": 189,
+                    "Detroit": 166,
+                    "Hollywood": 159,
+                    "N. Olmsted": 151,
+                    "Plano": 123,
+                    "Knoxville": 119,
+                    "Canton": 117,
+                    "Johnson City": 114,
+                    "Cherry Hill": 111,
+                    "Syracuse": 107
+                },
+                "savings": {
+                    "Price Drop": 995
+                },
+                "hasSerial": {
+                    "false": 14084
+                },
+                "isAccessory": {
+                    "false": 14084
+                },
+                "premiumGear": {
+                    "Vintage": 749
+                },
+                "skuCondition": {
+                    "7": 6696,
+                    "8": 3899,
+                    "6": 2936,
+                    "9": 527,
+                    "10": 26
+                },
+                "condition.lvl0": {
+                    "Used": 14084
+                },
+                "condition.lvl1": {
+                    "Used \u003e Great": 6696,
+                    "Used \u003e Good": 3899,
+                    "Used \u003e Excellent": 2936,
+                    "Used \u003e Fair": 527,
+                    "Used \u003e Poor": 26
+                },
+                "categories.lvl0": {
+                    "Guitars": 14084
+                },
+                "categories.lvl1": {
+                    "Guitars \u003e Electric Guitars": 14084
+                },
+                "categories.lvl2": {
+                    "Guitars \u003e Electric Guitars \u003e Solid Body Electric Guitars": 11849,
+                    "Guitars \u003e Electric Guitars \u003e Semi-Hollow and Hollow Body Electric Guitars": 1750,
+                    "Guitars \u003e Electric Guitars \u003e Extended Range Electric Guitars": 260,
+                    "Guitars \u003e Electric Guitars \u003e Left-Handed Electric Guitars": 139,
+                    "Guitars \u003e Electric Guitars \u003e Baritone Guitars": 44,
+                    "Guitars \u003e Electric Guitars \u003e Travel \u0026 Mini Electric Guitars": 42
+                },
+                "categoryPageIds": {
+                    "Available For Pickup": 14084,
+                    "Customer Appreciation Used and Vintage": 14084,
+                    "Guitars": 14084,
+                    "Guitars \u003e Electric Guitars": 14084,
+                    "Holiday Used \u0026 Vintage": 14084,
+                    "Now In Stock": 14084,
+                    "Plays Well With Guitars": 14084,
+                    "Used": 14084,
+                    "Used Financing": 13261,
+                    "Guitars \u003e Electric Guitars \u003e Solid Body Electric Guitars": 11849
+                },
+                "inventoryStatus": {
+                    "1000": 14084
+                },
+                "productCollections": {
+                    "Available For Pickup": 14084,
+                    "Customer Appreciation Used and Vintage": 14084,
+                    "Holiday Used \u0026 Vintage": 14084,
+                    "Now In Stock": 14084,
+                    "Plays Well With Guitars": 14084,
+                    "Used Financing": 13261,
+                    "10 Percent Gear Card Rewards": 11140,
+                    "Stratocaster Guitars": 1757,
+                    "Les Paul Guitars": 1702,
+                    "Fender Stratocasters": 1506
+                },
+                "review.overallRating": {
+                    "0": 3
+                }
+            },
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "stores",
+                            "inventoryStatus",
+                            "categories",
+                            "brand",
+                            "condition",
+                            "savings",
+                            "price",
+                            "hasSerial",
+                            "financing",
+                            "review.overallRating",
+                            "premiumGear",
+                            "Color",
+                            "deals",
+                            "Model",
+                            "Artist Model",
+                            "Series",
+                            "Number of Strings",
+                            "Pickup Configuration",
+                            "Bridge Type",
+                            "Scale Length",
+                            "Nut Width",
+                            "Number of Frets",
+                            "Fretted or Fretless",
+                            "Fingerboard Material",
+                            "Body Finish",
+                            "Body Style",
+                            "Body Shape",
+                            "Body Material",
+                            "Orientation",
+                            "Country of Origin",
+                            "Performance Level",
+                            "Case or Gig Bag"
+                        ]
+                    },
+                    "values": {
+                        "Artist Model": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Body Finish": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Body Material": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Body Shape": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Body Style": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Bridge Type": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Case or Gig Bag": {
+                            "order": [
+                                "Hard Shell Case",
+                                "Gig Bag"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        },
+                        "Color": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Country of Origin": {
+                            "order": [
+                                "United States"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "Fingerboard Material": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Fretted or Fretless": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Model": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Number of Frets": {
+                            "sortRemainingBy": "alpha"
+                        },
+                        "Number of Strings": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Nut Width": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Orientation": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Performance Level": {
+                            "order": [
+                                "Professional",
+                                "Intermediate",
+                                "Beginner"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "Pickup Configuration": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Scale Length": {
+                            "sortRemainingBy": "count"
+                        },
+                        "Series": {
+                            "sortRemainingBy": "count"
+                        },
+                        "brand": {
+                            "hide": [
+                                "In Store Used"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "categories": {
+                            "order": [
+                                "Solid Body Electric Guitars",
+                                "Semi-Hollow and Hollow Body Electric Guitars",
+                                "Extended Range Electric Guitars",
+                                "Left-Handed Electric Guitars",
+                                "Baritone Guitars"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        },
+                        "condition": {
+                            "sortRemainingBy": "alpha"
+                        },
+                        "deals": {
+                            "sortRemainingBy": "count"
+                        },
+                        "financing": {
+                            "sortRemainingBy": "count"
+                        },
+                        "hasSerial": {
+                            "hide": [
+                                "false"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "inventoryStatus": {
+                            "order": [
+                                "1000",
+                                "1002"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        },
+                        "premiumGear": {
+                            "sortRemainingBy": "count"
+                        },
+                        "price": {
+                            "sortRemainingBy": "count"
+                        },
+                        "review.overallRating": {
+                            "order": [
+                                "10",
+                                "9",
+                                "8",
+                                "7",
+                                "6",
+                                "5",
+                                "4",
+                                "3",
+                                "2",
+                                "1",
+                                "0"
+                            ],
+                            "sortRemainingBy": "hidden"
+                        },
+                        "savings": {
+                            "sortRemainingBy": "count"
+                        },
+                        "stores": {
+                            "sortRemainingBy": "count"
+                        }
+                    }
+                }
+            },
+            "exhaustive": {
+                "facetsCount": false,
+                "nbHits": false,
+                "typo": true
+            },
+            "exhaustiveFacetsCount": false,
+            "appliedRelevancyStrictness": 0,
+            "nbSortedHits": 14084
+        }
+    ]
+}
